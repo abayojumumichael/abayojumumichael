@@ -11,7 +11,7 @@
 
 - 🚀 I’m currently learning **React**  
 
-- 🏗️ I am currently working on **Edumetrics**  
+- 🏗️ I am currently working on **Edumetrics** and **Ladder**
 
 - 🤝 I’m looking to collaborate on projects this summer  
 
