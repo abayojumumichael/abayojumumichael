@@ -9,9 +9,11 @@
 
 - 🖥️ I’m proficient in *Python*, *Java*, and *SQL*  
 
-- 🚀 I’m currently learning **React**  
+- 🚀 I’m currently learning **TypeScript** (and by extension **JavaScript**) and **React**  
 
-- 🏗️ I am currently working on **Edumetrics** and **Ladder**
+- 🏗️ I am currently interning at a fintech startup
+  
+- 🏗️ I am also developing **GradePilot**
 
 - 🤝 I’m looking to collaborate on projects this summer  
 
