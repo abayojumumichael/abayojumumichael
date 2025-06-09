@@ -11,7 +11,7 @@
 
 - 🚀 I’m currently learning **TypeScript** (and by extension **JavaScript**) and **React**  
 
-- 🏗️ I am currently interning at a fintech startup
+- 🏗️ I am currently interning at **Jenzy**
   
 - 🏗️ I am also developing **GradePilot**
 
