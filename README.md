@@ -9,7 +9,7 @@
 
 - 🖥️ I’m proficient in *Python*, *Java*, and *SQL*  
 
-- 🚀 I’m currently learning **TypeScript** (and by extension **JavaScript**) and **React**  
+- 🚀 I’m currently learning **TypeScript** and **React**  
 
 - 🏗️ I am currently interning at **Jenzy**
   
