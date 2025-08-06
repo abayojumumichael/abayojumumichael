@@ -11,12 +11,10 @@
 
 - 🚀 I’m currently learning **TypeScript** and **React**  
 
-- 🏗️ I am currently interning at **Jenzy**
+- 🏗️ I recently interned at **Jenzy**
   
 - 🏗️ I am also developing **GradePilot**
-
-- 🤝 I’m looking to collaborate on projects this summer  
-
+  
 - 📧 How to reach me **abayojumumichael@gmail.com**  
 
 - 🎹 Fun fact: I can play the piano 
