@@ -13,7 +13,7 @@
 
 - 🏗️ I recently interned at **Jenzy**
   
-- 🏗️ I am also developing **GradePilot**
+- 🏗️ I am also developing **alphamac** and **GradePilot**
   
 - 📧 How to reach me **abayojumumichael@gmail.com**  
 
