@@ -1,5 +1,5 @@
 <h1 align="left">Michael Abayomi-Ojumu</h1>
-<h3 align="left">2nd Year Computer Science and Mathematics Undergraduate @ University of St Andrews</h3>
+<h3 align="left">2nd Year Computer Science and Statistics Undergraduate @ University of St Andrews</h3>
 
 - 👋 Hi, I’m Michael
  
