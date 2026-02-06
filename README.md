@@ -9,7 +9,7 @@
 
 - 🚀 I’m currently learning about computer systems 
 
-- 🏗️ I recently interned at **Jenzy**
+- 🏗️ I recently interned at [Jenzy](https://jenzy.com/)
   
 - 🏗️ I am also developing **alphamac** and **GradePilot**
   
