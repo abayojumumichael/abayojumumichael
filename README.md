@@ -7,9 +7,7 @@
 
 - 📖 I am also passionate about reading  
 
-- 🖥️ I’m proficient in *Python*, *Java*, and *SQL*  
-
-- 🚀 I’m currently learning **TypeScript** and **React**  
+- 🚀 I’m currently learning about computer systems 
 
 - 🏗️ I recently interned at **Jenzy**
   
@@ -18,11 +16,13 @@
 - 📧 How to reach me **abayojumumichael@gmail.com**  
 
 - 🎹 Fun fact: I can play the piano 
+<h3 align="left">Programming Languages:</h3>
+
+<a href="https://www.linkedin.com/in/michael-abayomi-ojumu/" target="blank"><img align="center" src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Python" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/michael-abayomi-ojumu/" target="blank"><img align="center" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="TypeScript" height="50" width="50" /></a><a href="https://www.linkedin.com/in/michael-abayomi-ojumu/" target="blank"><img align="center" src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="Java" height="50" width="50" /></a><a href="https://www.linkedin.com/in/michael-abayomi-ojumu/" target="blank"><img align="center" src="https://icon.icepanel.io/Technology/svg/C.svg" alt="C" height="50" width="50" /></a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/michael-abayomi-ojumu/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="michael-abayomi-ojumu" height="40" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/michael-abayomi-ojumu/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="michael-abayomi-ojumu" height="50" width="50" /></a>
 <!---
 abayojumumichael/abayojumumichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
