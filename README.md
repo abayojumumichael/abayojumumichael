@@ -1,8 +1,8 @@
 <h1 align="left">Michael Abayomi-Ojumu</h1>
 
-![](https://komarev.com/ghpvc/?username=abayojumumichael&style=plastic&color=blue&abbreviated=true)
 <h3 align="left">2nd Year Computer Science and Statistics Undergraduate @ University of St Andrews</h3>
 
+![](https://komarev.com/ghpvc/?username=abayojumumichael&style=plastic&color=blue&abbreviated=true)
 - 👋 Hi, I’m Michael
  
 - 💪 I am a gym enthusiast and I enjoy playing sports  
