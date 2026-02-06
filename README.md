@@ -1,4 +1,6 @@
 <h1 align="left">Michael Abayomi-Ojumu</h1>
+
+![](https://komarev.com/ghpvc/?username=abayojumumichael&style=plastic&color=blue&abbreviated=true)
 <h3 align="left">2nd Year Computer Science and Statistics Undergraduate @ University of St Andrews</h3>
 
 - 👋 Hi, I’m Michael
@@ -23,6 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/michael-abayomi-ojumu/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="michael-abayomi-ojumu" height="50" width="50" /></a>
+
 <!---
 abayojumumichael/abayojumumichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
