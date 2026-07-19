@@ -5,9 +5,9 @@
 ![](https://komarev.com/ghpvc/?username=abayojumumichael&style=plastic&color=blue&abbreviated=true)
 - 👋 Hi, I’m Michael
  
-- 💪 I am a gym enthusiast and I enjoy playing sports  
-
-- 📖 I am also passionate gaining knowledge   
+- 📖 I am passionate about gaining knowledge
+  
+- 💪 I also enjoy playing sports (mainly football) and going to the gym 
 
 - 🚀 I recently interned at [Jenzy](https://jenzy.com/) and I'm currently interning at [Scotiabank](https://www.gbm.scotiabank.com/en.html)
   
