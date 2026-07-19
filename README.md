@@ -7,7 +7,7 @@
  
 - 💪 I am a gym enthusiast and I enjoy playing sports  
 
-- 📖 I am also passionate about reading   
+- 📖 I am also passionate gaining knowledge   
 
 - 🚀 I recently interned at [Jenzy](https://jenzy.com/) and I'm currently interning at [Scotiabank](https://www.gbm.scotiabank.com/en.html)
   
