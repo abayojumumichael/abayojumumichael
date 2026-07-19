@@ -7,13 +7,11 @@
  
 - 💪 I am a gym enthusiast and I enjoy playing sports  
 
-- 📖 I am also passionate about reading  
+- 📖 I am also passionate about reading   
 
-- 🚀 I’m currently learning about computer systems 
-
-- 🏗️ I recently interned at [Jenzy](https://jenzy.com/)
+- 🚀 I recently interned at [Jenzy](https://jenzy.com/) and I'm currently interning at [Scotiabank](https://www.gbm.scotiabank.com/en.html)
   
-- 🏗️ I am also developing **alphamac** and **GradePilot**
+- 🏗️ I might be programming while you're reading
   
 - 📧 How to reach me **abayojumumichael@gmail.com**  
 
